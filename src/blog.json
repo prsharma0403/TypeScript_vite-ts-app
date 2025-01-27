@@ -1,0 +1,14 @@
+[
+    {
+     "id": 1,
+     "title": "Building a Todo App with Vue",
+     "cover": "../src/assets/next-app.png",
+     "author":"John Doe"
+    },
+    {
+     "id": 2,
+     "title": "Getting started with TypeScript",
+     "cover": "../src/assets/components.png",
+     "author":"Claman Joe"
+    }
+   ]
